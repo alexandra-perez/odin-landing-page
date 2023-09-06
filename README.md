@@ -1,6 +1,6 @@
 # odin-landing-page
 
-This project was part of an assignment in The Odin Project and is a dummy landing page, where the goal was to recreate the following site based only off the photo below and the provided css fonts and colors.
+This dummy landing page was part of an assignment in The Odin Project, where the goal was to recreate a site based only off the photo below and the provided css fonts and colors.
 
 View in [Github Pages](https://alexandra-perez.github.io/odin-landing-page/)
 
